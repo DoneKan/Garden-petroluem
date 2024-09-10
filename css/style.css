@@ -948,6 +948,7 @@ a:focus {
 
 .team .team-img img {
     width: 100%;
+    object-fit: cover;
 }
 
 .team .team-text {
