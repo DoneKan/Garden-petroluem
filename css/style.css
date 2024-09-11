@@ -136,6 +136,11 @@ a:focus {
     font-size: 13px;
     font-weight: 400;
 }
+.company-name{
+    font-weight: 800;
+    font-size: 25px;
+    color: #000000;
+}
 
 @media (min-width: 992px) {
     .top-bar {
